@@ -32,6 +32,8 @@
         body > div div.container div.messages div.file > div {
           width: 300px; }
       body > div div.container form input {
+        color: white; }
+      body > div div.container form label {
         color: white; } }
 
 body {
